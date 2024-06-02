@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sadwhale.net/projects/aeugh/</loc>
+    <lastmod>2024-06-02T17:12:21+02:00</lastmod>
+  </url><url>
+    <loc>https://sadwhale.net/projects/</loc>
+    <lastmod>2024-06-02T17:12:21+02:00</lastmod>
+  </url><url>
+    <loc>https://sadwhale.net/</loc>
+    <lastmod>2024-06-02T17:12:21+02:00</lastmod>
+  </url><url>
+    <loc>https://sadwhale.net/projects/test-creator/</loc>
+    <lastmod>2024-06-02T16:15:45+02:00</lastmod>
+  </url><url>
     <loc>https://sadwhale.net/tags/foobar/</loc>
     <lastmod>2024-06-02T12:09:16+02:00</lastmod>
   </url><url>
@@ -9,9 +21,6 @@
     <lastmod>2024-06-02T12:09:16+02:00</lastmod>
   </url><url>
     <loc>https://sadwhale.net/posts/</loc>
-    <lastmod>2024-06-02T12:09:16+02:00</lastmod>
-  </url><url>
-    <loc>https://sadwhale.net/</loc>
     <lastmod>2024-06-02T12:09:16+02:00</lastmod>
   </url><url>
     <loc>https://sadwhale.net/tags/</loc>
