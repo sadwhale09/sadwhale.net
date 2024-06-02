@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Sad Whale</title>
+    <link>https://sadwhale.net/tags/untagged/</link>
+    <description>Recent content in untagged on Sad Whale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jun 2024 15:05:26 +0200</lastBuildDate><atom:link href="https://sadwhale.net/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>https://sadwhale.net/posts/second-post/</link>
+      <pubDate>Sun, 02 Jun 2024 15:05:26 +0200</pubDate>
+      
+      <guid>https://sadwhale.net/posts/second-post/</guid>
+      <description>Code snippets def test(a string): print(a, a) Lists a a a a a a F F F F F F F F F bold
+italic</description>
+    </item>
+    
+  </channel>
+</rss>
