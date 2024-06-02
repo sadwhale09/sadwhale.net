@@ -5,44 +5,8 @@
         <description>Recent content in Posts on Sad Whale</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 02 Jun 2024 15:05:26 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2024 12:09:16 +0200</lastBuildDate>
         <atom:link href="https://sadwhale.net/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Second Post</title>
-            <link>https://sadwhale.net/posts/second-post/</link>
-            <pubDate>Sun, 02 Jun 2024 15:05:26 +0200</pubDate>
-            
-            <guid>https://sadwhale.net/posts/second-post/</guid>
-            <description>Code snippets def test(a string): print(a, a) Lists a a a a a a F F F F F F F F F bold
-italic</description>
-            <content type="html"><![CDATA[<h1 id="code-snippets">Code snippets</h1>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">test</span>(a string):
-</span></span><span style="display:flex;"><span>    print(a, a)
-</span></span></code></pre></div><h1 id="lists">Lists</h1>
-<ul>
-<li>a</li>
-<li>a</li>
-<li>a</li>
-<li>a</li>
-<li>a</li>
-<li>a</li>
-</ul>
-<ol>
-<li>F</li>
-<li>F</li>
-<li>F</li>
-<li>F</li>
-<li>F</li>
-<li>F</li>
-<li>F</li>
-<li>F</li>
-<li>F</li>
-</ol>
-<p><strong>bold</strong></p>
-<p><em>italic</em></p>
-]]></content>
-        </item>
         
         <item>
             <title>Hello World</title>
