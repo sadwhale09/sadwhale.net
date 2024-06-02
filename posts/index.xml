@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Sad Whale</title>
+        <link>https://sadwhale.net/posts/</link>
+        <description>Recent content in Posts on Sad Whale</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 02 Jun 2024 12:09:16 +0200</lastBuildDate>
+        <atom:link href="https://sadwhale.net/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Hello World</title>
+            <link>https://sadwhale.net/posts/hello-world/</link>
+            <pubDate>Sun, 02 Jun 2024 12:09:16 +0200</pubDate>
+            
+            <guid>https://sadwhale.net/posts/hello-world/</guid>
+            <description>Actually: Hello, World Wide Web \(.___.)3 </description>
+            <content type="html"><![CDATA[<h1 id="actually-hello-world-wide-web">Actually: Hello, World Wide Web</h1>
+<h1 id="___3"><code>\(.___.)3</code></h1>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
