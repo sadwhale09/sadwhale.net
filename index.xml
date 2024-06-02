@@ -6,7 +6,17 @@
     <description>Recent content on Sad Whale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jun 2024 12:09:16 +0200</lastBuildDate><atom:link href="https://sadwhale.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jun 2024 15:05:26 +0200</lastBuildDate><atom:link href="https://sadwhale.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>https://sadwhale.net/posts/second-post/</link>
+      <pubDate>Sun, 02 Jun 2024 15:05:26 +0200</pubDate>
+      
+      <guid>https://sadwhale.net/posts/second-post/</guid>
+      <description>Code snippets def test(a string): print(a, a) Lists a a a a a a F F F F F F F F F bold
+italic</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>https://sadwhale.net/posts/hello-world/</link>
